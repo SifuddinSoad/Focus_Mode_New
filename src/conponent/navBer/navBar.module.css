@@ -1,0 +1,40 @@
+.iconButton {
+  border: 0px solid white;
+  background-color: white;
+}
+
+.iconDev {
+  display: contents;
+  background-color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.buttonDev {
+  display: flex;
+  width: 15%;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  background-color: #e5e7eb;
+}
+
+.buttonElement {
+  width: 50%;
+  border: 0px solid #ffffff;
+}
+.buttonElementBg1 {
+  background-color: #ffffff !important;
+  border: 1px solid #e2e0e0 !important;
+}
+.buttonElementBg2 {
+  background-color: #e5e7eb !important;
+  border: 0px solid #ffffff !important;
+}
+.profileDev {
+  width: 40px;
+  border: 1px solid #000000;
+  border-radius: 50%;
+  background-color: antiquewhite;
+}

@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.container > input {
+  width: 2rem;
+}
+.hour {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 30%;
+}
+.minites {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 30%;
+}
+.secands {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 30%;
+}
+.inputElement {
+  padding: 3px 30%;
+  height: 2.5rem;
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+.btnBreak {
+  width: 70%;
+  display: block !important;
+  margin: auto;
+  margin-top: 1rem;
+}
+.inputCommon {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+}
+.right {
+  float: right;
+}

@@ -1,0 +1,18 @@
+.container {
+  margin-bottom: 0.4rem;
+  width: fit-content;
+  display: block;
+  margin: auto;
+  margin-bottom: 4px;
+}
+.btnMinus {
+  padding: 0px;
+  padding-right: 1px;
+  font-size: 13px;
+  height: 22px;
+  width: 22px;
+  border: 1px solid #0067ff;
+  border-radius: 50%;
+  color: #ffffff;
+  background-color: #0067ff;
+}

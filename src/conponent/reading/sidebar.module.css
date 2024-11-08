@@ -1,0 +1,29 @@
+.sideBarList {
+  list-style: none;
+  font-size: 1.12rem;
+  font-weight: 400;
+  padding: 0.8rem;
+}
+.sideBarList > li {
+  margin-bottom: 0.8rem;
+}
+.sideBarList > li > a {
+  text-decoration: none;
+  color: #212529;
+}
+.sideBarList > li > a:hover {
+  color: #606569;
+}
+.icon {
+  margin-right: 0.75rem;
+  position: relative;
+  bottom: 2px;
+}
+
+.sidebarContainer {
+  background-color: #f8f9fa;
+  padding: 0.5rem;
+  border-radius: 10px;
+  min-width: 200px;
+  min-height: 415px;
+}

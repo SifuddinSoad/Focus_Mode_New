@@ -1,0 +1,28 @@
+.rightContainer {
+  display: flex;
+  width: 80%;
+  min-width: 355px;
+  min-height: 40vh;
+  margin: auto;
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 2rem;
+  flex-direction: column;
+  justify-content: center;
+}
+.from {
+  margin-top: 1rem;
+}
+.btnStart {
+  width: 75%;
+  margin: auto;
+  display: block !important;
+  margin-top: 1.5rem;
+}
+.btnCommon {
+  width: 70%;
+  margin: auto;
+  display: block !important;
+  margin-top: 0.5rem;
+}
